@@ -21,3 +21,9 @@ Default binay name is app,
 ```bash
 scala-cli --power package . -o countByExtension
 ```
+
+Docker container
+
+```bash
+scala-cli --power package --docker HelloDocker.scala --docker-image-repository hello-docker
+```

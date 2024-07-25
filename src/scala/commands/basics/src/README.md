@@ -1,4 +1,4 @@
-# Commands/Basics
+# [Commands/Basics](https://scala-cli.virtuslab.org/docs/commands/basics)
 
 ```bash
 scala-cli Hello.scala
